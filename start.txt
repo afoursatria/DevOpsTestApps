@@ -3,3 +3,4 @@ ini baris kedua
 tambah buat diff
 tambah di ver 1.2
 test resolve git
+edit di br 1.2
