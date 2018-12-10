@@ -1,3 +1,4 @@
 test isi file
 ini baris kedua
 tambah buat diff
+tambah di ver 1.2
