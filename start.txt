@@ -1,1 +1,2 @@
 test isi file
+ini baris kedua
